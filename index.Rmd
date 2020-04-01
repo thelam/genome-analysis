@@ -11,5 +11,4 @@ knitr::opts_chunk$set(echo = TRUE)
 [lab3](Lab_TiffanyHe.html)
 [lab4](Lab4_TiffanyHe.html)
 [lab5](Lab5_TiffanyHe.html)
-
-ttt
+[Lab9](Lab9_TiffanyHe.html)
