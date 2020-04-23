@@ -14,3 +14,4 @@ knitr::opts_chunk$set(echo = TRUE)
 [Lab9](Lab9_TiffanyHe.html)
 [lab10](Lab10_TifanyHe.html)
 
+ https://thelam.shinyapps.io/myapps/ 
